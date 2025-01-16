@@ -17,6 +17,7 @@ A lightweight client-server communication program implemented in C using UNIX si
 ## Installation
 
 git clone https://github.com/mrioshe42/minitalk.git
+
 cd minitalk
 make
 
